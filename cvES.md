@@ -45,6 +45,7 @@ Cursos dictados: Diseño y arquitectura de software, Sistemas Inteligentes, Apli
 
 ---
 ### CERTIFICACIONES
+- Linux Professional Institute: Linux Essentials / Abril 2021
 - Microsoft® Certified: Azure Data Fundamentals / Febrero 2021
 - The Open Group Certified: TOGAF® 9 Foundation / Marzo 2020
 - Microsoft® Certified: Azure Fundamentals / Febrero 2020
