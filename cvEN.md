@@ -3,7 +3,7 @@ Mobile: +51 947614089 / Email: jose.luis.tello@gmail.com / National Identity Car
 
 ![José Tello](JoseTello20.jpg)  
 ### Solution Architect | Systems Engineer | MBA, PMP®, TOGAF® 9 Foundation, PSM™, Microsoft Certified
-Jose has 15+ years of professional experience in Information Technology (IT), in specialties such as enterprise architecture, project management, software development and others.
+Jose has 16+ years of professional experience in Information Technology (IT), in specialties such as enterprise architecture, project management, software development and others.
 
 He is currently a **Solutions Architect at BCP**, the leading bank in the Peruvian financial market and one of the largest bank in Latin America, that is a part of the financial holding Credicorp (NSY: BAP)
 
