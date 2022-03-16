@@ -1,7 +1,6 @@
 # JOSE LUIS TELLO GUZMAN
 Mobile: +51 947614089 / Email: jose.luis.tello@gmail.com / National Identity Card: 41590081 / https://www.linkedin.com/in/jose-luis-tello-guzman/
-
-![José Tello](JoseTello20.jpg)  
+ 
 ### Solution Architect | Systems Engineer | MBA, PMP®, TOGAF® 9 Foundation, PSM™, Microsoft Certified
 Jose has 16+ years of professional experience in Information Technology (IT), in specialties such as enterprise architecture, project management, software development and others.
 
@@ -18,7 +17,7 @@ Jose holds an **MBA from the ESAN University** and many international certificat
 ---
 ### PROFESSIONAL EXPERIENCE
 #### Banco de Credito del Peru (BCP) - Location: Lima, Peru
-- **July 2017 – Present (3.5 years) / Solution Architect**<br>
+- **July 2017 – Present (4.5 years) / Solution Architect**<br>
 Define "how" the technological architecture components ensure the development and achievement of the strategic and technological  company vision, in order to reduce development costs, improve time to market, reduce technological complexity and have optimal levels of stability and performance.<br>
 
 - **June 2013 – June 2017 (4 years) / Senior System Analyst**<br>

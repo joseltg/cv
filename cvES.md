@@ -1,7 +1,6 @@
 # JOSÉ LUIS TELLO GUZMÁN
 Móvil: 947614089 / Email: jose.luis.tello@gmail.com / DNI: 41590081 / CIP: 220391 /  https://www.linkedin.com/in/jose-luis-tello-guzman/
-
-![José Tello](JoseTello20.jpg)  
+ 
 ### Arquitecto de Soluciones | Ingeniero en Informática y Sistemas | MBA, PMP®, TOGAF® 9 Foundation, PSM™, Microsoft® Certified
 José Luis tiene 16+ años de experiencia profesional en Tecnologías de Información (TI), cubriendo diversas especialidades como la arquitectura empresarial, la gestión de proyectos, el desarrollo de software, entre otros.
 
@@ -18,7 +17,7 @@ Posee un **MBA otorgado por la Universidad ESAN** y diversas certificaciones int
 ---
 ### EXPERIENCIA PROFESIONAL
 #### Banco de Crédito del Perú - Lima, Perú
-- **Julio 2017 – Actualidad (3.5 años) / Gerente Adjunto Arquitectura de Solución**<br>
+- **Julio 2017 – Actualidad (4.5 años) / Gerente Adjunto Arquitectura de Solución**<br>
 Definir y asesorar en el "cómo" los componentes de la arquitectura tecnológica aseguran el desarrollo y logro de la visión estratégica y tecnológica del BCP, con la finalidad de reducir los costos de desarrollo, mejorar los tiempos de atención al negocio, reducir la complejidad tecnológica y tener óptimos niveles de estabilidad y performance, así como también, asesorar a las gerencias de arquitectura de las subsidiarias con el mismo fin.<br>
 
 - **Junio 2013 – Junio 2017 (4 años) / Experto en Portafolio de Aplicaciones Tercerizadas**<br>
