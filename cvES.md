@@ -1,14 +1,15 @@
 # JOSÉ LUIS TELLO GUZMÁN
 Móvil: 947614089 / Email: jose.luis.tello@gmail.com / DNI: 41590081 / CIP: 220391 /  https://www.linkedin.com/in/jose-luis-tello-guzman/
- 
+
 ### Arquitecto de Soluciones | Ingeniero en Informática y Sistemas | MBA, PMP®, TOGAF® 9 Foundation, PSM™, Microsoft® Certified
-José Luis tiene 16+ años de experiencia profesional en Tecnologías de Información (TI), cubriendo diversas especialidades como la arquitectura empresarial, la gestión de proyectos, el desarrollo de software, entre otros.
+José Luis tiene 17+ años de experiencia profesional en Tecnologías de Información (TI), cubriendo diversas especialidades como la arquitectura empresarial, la gestión de proyectos, el desarrollo de software, entre otros.
 
 Desempeñándose actualmente como **Arquitecto de Soluciones en el BCP**, banco líder en el sistema financiero peruano y uno de los más grandes bancos de Latinoamérica, parte del holding financiero Credicorp (NSY: BAP)
 
 Posee un **MBA otorgado por la Universidad ESAN** y diversas certificaciones internacionales como:
+- BIAN Banking Architecture Foundation, emitido por Van Haren
 - TOGAF® 9 Foundation, emitido por The Open Group
-- Project Management Professional (PMP)®, emitido por el Project Management Institute (PMI)®,
+- Project Management Professional (PMP)®, emitido por el Project Management Institute (PMI)®
 - Professional Scrum Master (PSM)™ emitido por Scrum.org ™
 - Microsoft Certified: Azure Fundamentals emitido por Microsoft®
 - Microsoft Certified: Azure Data Fundamentals emitido por Microsoft®
@@ -45,6 +46,7 @@ Cursos dictados: Diseño y arquitectura de software, Sistemas Inteligentes, Apli
 
 ---
 ### CERTIFICACIONES
+- BIAN Banking Architecture Foundation/ Setiembre 2022
 - Linux Professional Institute: Linux Essentials / Abril 2021
 - Microsoft® Certified: Azure Data Fundamentals / Febrero 2021
 - The Open Group Certified: TOGAF® 9 Foundation / Marzo 2020
