@@ -18,7 +18,7 @@ Jose holds an **MBA from the ESAN University** and many international certificat
 ---
 ### PROFESSIONAL EXPERIENCE
 #### Banco de Credito del Peru (BCP) - Location: Lima, Peru
-- **July 2017 – Present (4.5 years) / Solution Architect**<br>
+- **July 2017 – Present (5.5 years) / Solution Architect**<br>
 Define "how" the technological architecture components ensure the development and achievement of the strategic and technological  company vision, in order to reduce development costs, improve time to market, reduce technological complexity and have optimal levels of stability and performance.<br>
 
 - **June 2013 – June 2017 (4 years) / Senior System Analyst**<br>
