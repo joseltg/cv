@@ -1,5 +1,5 @@
 # JOSÉ LUIS TELLO GUZMÁN
-Móvil: 947614089 / Email: jose.luis.tello@gmail.com / DNI: 41590081 / CIP: 220391 /  https://www.linkedin.com/in/jose-luis-tello-guzman/
+Móvil: 989269456 / Email: jose.luis.tello@gmail.com / DNI: 41590081 / CIP: 220391 /  https://www.linkedin.com/in/jose-luis-tello-guzman/
 
 ### Arquitecto de Soluciones | Ingeniero en Informática y Sistemas | MBA, PMP®, TOGAF® 9 Foundation, BIAN Banking Architecture Foundation, PSM™, Microsoft® Certified
 José Luis tiene 17+ años de experiencia profesional en Tecnologías de Información (TI), cubriendo diversas especialidades como la arquitectura empresarial, la gestión de proyectos, el desarrollo de software, entre otros.

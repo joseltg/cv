@@ -1,5 +1,5 @@
 # JOSE LUIS TELLO GUZMAN
-Mobile: +51 947614089 / Email: jose.luis.tello@gmail.com / National Identity Card: 41590081 / https://www.linkedin.com/in/jose-luis-tello-guzman/
+Mobile: +51 989269456 / Email: jose.luis.tello@gmail.com / National Identity Card: 41590081 / https://www.linkedin.com/in/jose-luis-tello-guzman/
 
 ![José Tello](JoseTello20.jpg)  
 ### Solution Architect | Systems Engineer | MBA, PMP®, TOGAF® 9 Foundation, PSM™, Microsoft Certified
