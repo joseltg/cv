@@ -67,4 +67,4 @@ Courses: Software architecture and design; AI Systems; Mobile apps; Video games
 ---
 ### LANGUAGES
 - Spanish: Native Language
-- English: Advance reading, Intermediate writing, Basic Speaking; currently studying the 6th of 10th cycles Intermediate level on Britanico a Peruvian-British Cultural Association;
+- English: CEFR LEVEL B1  (Reading 161, Listening 170, Writing 153, Speaking 151)

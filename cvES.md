@@ -67,4 +67,4 @@ Cursos dictados: Diseño y arquitectura de software, Sistemas Inteligentes, Apli
 ---
 ### IDIOMAS
 - Castellano: Lengua materna
-- Inglés: Lee avanzado, escribe intermedio, habla básico
+- Inglés: CEFR LEVEL B1  (Reading 161, Listening 170, Writing 153, Speaking 151)
