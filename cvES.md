@@ -1,7 +1,7 @@
 # JOSÉ LUIS TELLO GUZMÁN
 Móvil: 989269456 / Email: jose.luis.tello@gmail.com / DNI: 41590081 / CIP: 220391 /  https://www.linkedin.com/in/jose-luis-tello-guzman/
 
-### Arquitecto de Soluciones | Ingeniero en Informática y Sistemas | MBA, PMP®, TOGAF® 9 Foundation, Archimate® 3 Foundation, BIAN Banking Architecture Foundation, PSM™, Microsoft® Certified
+### Arquitecto de Soluciones | Ingeniero en Informática y Sistemas | MBA, PMP®, TOGAF® 9 Foundation, ArchiMate® 3 Foundation, BIAN Banking Architecture Foundation, PSM™, Microsoft® Certified
 José Luis tiene 18+ años de experiencia profesional en Tecnologías de Información (TI), cubriendo diversas especialidades como la arquitectura empresarial, la gestión de proyectos, el desarrollo de software, entre otros.
 
 Desempeñándose actualmente como **Arquitecto de Soluciones en el BCP**, banco líder en el sistema financiero peruano y uno de los más grandes bancos de Latinoamérica, parte del holding financiero Credicorp (NSY: BAP)
@@ -9,7 +9,7 @@ Desempeñándose actualmente como **Arquitecto de Soluciones en el BCP**, banco 
 Posee un **MBA otorgado por la Universidad ESAN** y diversas certificaciones internacionales como:
 - BIAN Banking Architecture Foundation, emitido por Van Haren
 - TOGAF® 9 Foundation, emitido por The Open Group
-- Archimate® 3 Foundation, emitido por The Open Group
+- ArchiMate® 3 Foundation, emitido por The Open Group
 - Project Management Professional (PMP)®, emitido por el Project Management Institute (PMI)®
 - Professional Scrum Master (PSM)™ emitido por Scrum.org ™
 - Microsoft Certified: Azure Fundamentals emitido por Microsoft®
@@ -47,7 +47,7 @@ Cursos dictados: Diseño y arquitectura de software, Sistemas Inteligentes, Apli
 
 ---
 ### CERTIFICACIONES
-- The Open Group Certified: Archimate® 3 Foundation / Febrero 2024
+- The Open Group Certified: ArchiMate® 3 Foundation / Febrero 2024
 - BIAN Banking Architecture Foundation/ Setiembre 2022
 - Linux Professional Institute: Linux Essentials / Abril 2021
 - Microsoft® Certified: Azure Data Fundamentals / Febrero 2021
