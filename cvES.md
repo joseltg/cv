@@ -9,6 +9,7 @@ Desempeñándose actualmente como **Arquitecto de Soluciones en el BCP**, banco 
 Posee un **MBA otorgado por la Universidad ESAN** y diversas certificaciones internacionales como:
 - BIAN Banking Architecture Foundation, emitido por Van Haren
 - TOGAF® 9 Foundation, emitido por The Open Group
+- Archimate® 3 Foundation, emitido por The Open Group
 - Project Management Professional (PMP)®, emitido por el Project Management Institute (PMI)®
 - Professional Scrum Master (PSM)™ emitido por Scrum.org ™
 - Microsoft Certified: Azure Fundamentals emitido por Microsoft®
@@ -46,6 +47,7 @@ Cursos dictados: Diseño y arquitectura de software, Sistemas Inteligentes, Apli
 
 ---
 ### CERTIFICACIONES
+- The Open Group Certified: Archimate® 3 Foundation / Febrero 2024
 - BIAN Banking Architecture Foundation/ Setiembre 2022
 - Linux Professional Institute: Linux Essentials / Abril 2021
 - Microsoft® Certified: Azure Data Fundamentals / Febrero 2021

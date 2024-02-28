@@ -9,6 +9,7 @@ He is currently a **Solutions Architect at BCP**, the leading bank in the Peruvi
 Jose holds an **MBA from the ESAN University** and many international certifications as:
 - BIAN Banking Architecture Foundation, issued by Van Haren
 - TOGAF® 9 Foundation, issued by The Open Group
+- Archimate® 3 Foundation, issued by The Open Group
 - Project Management Professional (PMP) ®, issued by the Project Management Institute (PMI) ®
 - Professional Scrum Master (PSM) ™ issued by Scrum.org ™
 - Microsoft Certified: Azure Fundamentals issued by Microsoft®
@@ -46,6 +47,7 @@ Courses: Software architecture and design; AI Systems; Mobile apps; Video games
 
 ---
 ### CERTIFICATIONS
+- The Open Group Certified: Archimate® 3 Foundation / Febrero 2024
 - BIAN Banking Architecture Foundation/ September 2022
 - Linux Professional Institute: Linux Essentials / April 2021
 - Microsoft Certified: Azure Data Fundamentals issued by Microsoft® / February 2021
