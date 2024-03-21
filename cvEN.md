@@ -1,13 +1,15 @@
 # JOSE LUIS TELLO GUZMAN
 Mobile: +51 989269456 / Email: jose.luis.tello@gmail.com / National Identity Card: 41590081 / https://www.linkedin.com/in/jose-luis-tello-guzman/
 
-### Enterprise Architect | Solution Architect | Systems Engineer | MBA, PMP®, TOGAF® 9 Foundation, ArchiMate® 3 Foundation, BIAN Banking Architecture Foundation, PSM™, Microsoft Certified
+### Enterprise Architect | Solution Architect | Information and Systems Engineer | MBA | BIAN Architect, TOGAF® Enterprise Architecture Team Member 9.2, Microsoft® Certified, PMP®, PSM™
 Jose has 18+ years of professional experience in Information Technology (IT), in specialties such as enterprise architecture, project management, software development and others.
 
 He is currently a **Solutions Architect at BCP**, the leading bank in the Peruvian financial market and one of the largest bank in Latin America, that is a part of the financial holding Credicorp (NSY: BAP)
 
 Jose holds an **MBA from the ESAN University** and many international certifications as:
 - BIAN Banking Architecture Foundation, issued by Van Haren
+- ArchiMate® 3 Foundation, issued by The Open Group
+- TOGAF® Enterprise Architecture Team Member 9.2, issued by The Open Group
 - TOGAF® 9 Foundation, issued by The Open Group
 - ArchiMate® 3 Foundation, issued by The Open Group
 - Project Management Professional (PMP) ®, issued by the Project Management Institute (PMI) ®
